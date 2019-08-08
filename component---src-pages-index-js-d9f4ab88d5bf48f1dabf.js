@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{172:function(e,t,n){"use strict";n.r(t);var o=n(0),c=n.n(o),l=n(182);n(221),n(222);console.log("%cHey there, fellow engineer! Like my code? Check out more of it here: https://github.com/AlexOuttaspace","color: #7986cb;font-family:system-ui;font-size:1.5rem;-webkit-text-stroke: 0.1px #e57373;");t.default=function(){return c.a.createElement(l.j,null,c.a.createElement(l.n,{title:"Home"}),c.a.createElement(l.d,null))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-d9f4ab88d5bf48f1dabf.js.map
